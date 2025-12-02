@@ -48,6 +48,7 @@
 .btn {
     margin-top: auto;
     display: inline-block;
+    width: auto;
     padding: 8px 14px;
     background: #00aced;
     color: white;
@@ -83,8 +84,7 @@
 .project-title {
     font-style: bold;
     font-size: larger;
-    background: #00aced;
-    color: white;
+    color: black;
     padding: 6px 12px;
     border-radius: 5px;
     display: inline-block;
