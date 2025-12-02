@@ -81,6 +81,8 @@
 }
 
 .project-title {
+    font-style: bold;
+    font-size: larger;
     background: #00aced;
     color: white;
     padding: 6px 12px;
